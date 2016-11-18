@@ -1,2 +1,3 @@
 git is a free software
-git is a vision control system.
+git is a version control system.
+git is very important
